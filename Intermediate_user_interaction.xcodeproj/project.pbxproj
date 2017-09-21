@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D85E1F311F7331B900ACC6C9 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = X2NK8TMYS8;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = X2NK8TMYS8;
 				INFOPLIST_FILE = Intermediate_user_interaction/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "self.Intermediate-user-interaction";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = X2NK8TMYS8;
 				INFOPLIST_FILE = Intermediate_user_interaction/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "self.Intermediate-user-interaction";
